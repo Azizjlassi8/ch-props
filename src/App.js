@@ -6,11 +6,11 @@ function App() {
   return (
     <div className="App">
     <Profile
-    fullname = 'Amri Amine'
-    Bio = 'engineer degree'
+    fullname = 'Jlassi Aziz'
+    Bio = 'English Student'
     profession = 'FullStack dev'
-    age ={28}>
-    <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHBvcnRyYWl0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="car"/>
+    age ={20}>
+    <img src="https://images.unsplash.com/photo-1684721637970-87031875065e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fFM0TUtMQXNCQjc0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="men"/>
     </Profile>
     
     </div>
